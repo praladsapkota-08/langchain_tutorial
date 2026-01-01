@@ -10,3 +10,4 @@ sse-starlette
 beautifulsoup4
 ollama
 huggingface-hub
+langchain-huggingface
