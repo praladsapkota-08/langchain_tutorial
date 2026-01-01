@@ -8,3 +8,5 @@ fastapi
 uvicorn
 sse-starlette
 beautifulsoup4
+ollama
+huggingface-hub
