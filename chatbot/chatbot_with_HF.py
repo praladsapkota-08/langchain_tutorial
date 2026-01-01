@@ -12,7 +12,7 @@ load_dotenv()
 endpoint = HuggingFaceEndpoint(
     repo_id="HuggingFaceH4/zephyr-7b-beta",
     huggingfacehub_api_token=os.getenv("HUGGINGFACEHUB_API_TOKEN"),
-    max_new_tokens=200,
+    max_new_tokens=500,
     temperature=0.7,
 )
 
