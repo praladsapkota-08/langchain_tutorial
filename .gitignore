@@ -1,3 +1,4 @@
 /.env
 /venv
 /rag_demo/data/*
+/rag_demo/faiss_index/*

@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 from transformers import pipeline
-from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
+fromlangchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import HuggingFacePipeline
